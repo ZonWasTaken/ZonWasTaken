@@ -1,14 +1,8 @@
-## Hey there! I'm Zon 👋
+## About 🙂
+Hey, I'm Zon! 👋 I'm a student, programmer, designer, and a soon-to-be startup founder. I enjoy tinkering with Linux machines, designing user interfaces and learning new things. I'm proficient in HTML + CSS, Javascript, Python, Minecraft Skript and a little Bash. Currently learning React & MongoDB.
 
-<br/>
-
-I like to write code, and I enjoy learning new languages.
-
-<br/>
-<br/>
-
-<hr />
-
-<div align="center">
-<a href="https://dsc.bio/zon" target="_blank" style="text-decoration: none;"><img src="https://image.flaticon.com/icons/png/512/2111/2111370.png" width="50" height="50"/></a>
-</div>
+## Get in touch 📫
+I'm designing websites right now, with reasonable prices and the latest standards in front-end development.
+- ✉ Email: [zonwastaken@gmail.com](mailto:zonwastaken@gmail.com)
+- 🎮 Discord : [zon#0001](https://dsc.bio/zon)
+- 🏀 Dribbble : [ZonWasTaken](https://dribbble.com/ZonWasTaken)
