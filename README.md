@@ -6,4 +6,4 @@ I'm designing websites right now, with reasonable prices and the latest standard
 - ✉ Email: [zonwastaken@gmail.com](mailto:zonwastaken@gmail.com)
 - 🎮 Discord : [zon#0001](https://dsc.bio/zon)
 - 🏀 Dribbble : [ZonWasTaken](https://dribbble.com/ZonWasTaken)
-<br>![](https://komarev.com/ghpvc/?username=ZonWasTaken&color=4298f5)
+<br><br>![](https://komarev.com/ghpvc/?username=ZonWasTaken&color=4298f5)
